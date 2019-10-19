@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Jim",
+    "image": "../imgs/jim.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dwight",
+    "image": "../imgs/dwight.png"
+  },
+  {
+    "id": 3,
+    "name": "Pam",
+    "image": "../imgs/pam.gif"
+  },
+  {
+    "id": 4,
+    "name": "Michael",
+    "image": "../imgs/michael.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Meredith",
+    "image": "../imgs/meredith.png"
+  },
+  {
+    "id": 6,
+    "name": "Creed",
+    "image": "../imgs/creed.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Stanley",
+    "image": "../imgs/Stanley.jpg"
+  }
+]
